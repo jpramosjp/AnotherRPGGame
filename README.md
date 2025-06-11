@@ -10,7 +10,7 @@
 
 ## 📸 Preview
 
-![screenshot1](https://github-production-user-asset-6210df.s3.amazonaws.com/61604869/454000541-63cd7280-226e-41bb-96b6-5d0478cdb820.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250611T154948Z&X-Amz-Expires=300&X-Amz-Signature=774ac2f777a4b09fba4ec158d88aa5435d151085a9b0c434e891891889674340&X-Amz-SignedHeaders=host)
+![screenshot1](https://github.com/user-attachments/assets/c489e5e2-6d00-4fec-9a51-e9344b0c8cbe)
 ![Image](https://github.com/user-attachments/assets/4d90c0c1-b0d4-4396-91b4-e4666225388a)
 
 ---
