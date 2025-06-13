@@ -91,10 +91,9 @@ Veja o arquivo `LICENSE` para mais detalhes.
 ## 📬 Contato
 
 Para dúvidas, sugestões ou colaborações, entre em contato:  
-📧 seuemail@exemplo.com  
-🔗 [Seu LinkedIn](https://www.linkedin.com/in/joao-pedro-ramos-rodrigues/)  
-🔗 [Seu GitHub](https://github.com/seu-usuario)
+📧 jpramosjp@hotmail.com  
+🔗 [Linkedin](https://www.linkedin.com/in/joao-pedro-ramos-rodrigues/)  
 
 ---
 
-> Projeto criado com ♥ para fins de aprendizado.
+> Projeto criado para fins de aprendizado.
